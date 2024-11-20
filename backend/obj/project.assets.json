@@ -3401,19 +3401,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\admin\\.nuget\\packages\\": {}
+    "C:\\Users\\huy\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\admin\\OneDrive\\Desktop\\doanlan2\\slot8-mongodb\\The-A-Team\\backend\\backend.csproj",
+      "projectUniqueName": "C:\\Users\\huy\\login-nodejs-example\\The-A-Team\\backend\\backend.csproj",
       "projectName": "backend",
-      "projectPath": "C:\\Users\\admin\\OneDrive\\Desktop\\doanlan2\\slot8-mongodb\\The-A-Team\\backend\\backend.csproj",
-      "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\admin\\OneDrive\\Desktop\\doanlan2\\slot8-mongodb\\The-A-Team\\backend\\obj\\",
+      "projectPath": "C:\\Users\\huy\\login-nodejs-example\\The-A-Team\\backend\\backend.csproj",
+      "packagesPath": "C:\\Users\\huy\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\huy\\login-nodejs-example\\The-A-Team\\backend\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\admin\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\huy\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
